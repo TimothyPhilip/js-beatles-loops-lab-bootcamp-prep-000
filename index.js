@@ -22,8 +22,10 @@ return value;
 
 function iLoveTheBeatles(number){
   var array = []
-  do {
+  return array
+ }
+ do {
   array.push("I love the Beatles!");
 } while (incrementVariable(number) < 15);
 
-}
+
