@@ -13,7 +13,7 @@ var array = [musicians[0] + " plays " +instruments[0]];
  
 function johnLennonFacts(facts){
  let x = 0;
- var value = [ ];
+ var value = [];
  while (x < facts.length) {
   value.push(facts[x] + "!!!"); x++;
 }
