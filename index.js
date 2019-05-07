@@ -23,7 +23,7 @@ return value;
 function iLoveTheBeatles(number){
   var array = []
   do {
-  array.push();
+  array.push("I love the Beatles!");
 } while (incrementVariable(number) );
 
 }
