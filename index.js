@@ -21,7 +21,7 @@ return value;
 }
 
 function iLoveTheBeatles(n){
-  var i = ""
+  var array = ""
   return array
  
  do {
