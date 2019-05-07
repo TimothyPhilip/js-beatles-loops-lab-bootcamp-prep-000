@@ -23,7 +23,7 @@ return value;
 function iLoveTheBeatles(number){
   var array = []
   do {
-  [loopBody];
+  array.push();
 } while (incrementVariable(number) );
 
 }
