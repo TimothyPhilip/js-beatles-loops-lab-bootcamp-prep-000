@@ -22,5 +22,8 @@ return value;
 
 function iLoveTheBeatles(number){
   var array = []
-  
+  do {
+  [loopBody];
+} while ([condition]);
+
 }
