@@ -13,9 +13,9 @@ var array = [musicians[0] + " plays " +instruments[0]];
  
 function johnLennonFacts(facts){
  let x = 0;
- var value = [facts[0] + "!!!"];
+ var value = [facts[x] + "!!!"];
  while (x < facts.length) {
-  value.push(facts[x] + "!!!"); x++;
+  value.push(facts[0] + "!!!"); x++;
 }
 return value
 }
