@@ -24,8 +24,7 @@ function iLoveTheBeatles(n){
   var array = []
   
   function incrementVariable() {
-  i = i + 1;
-  return i;
+  return array;
 }
  
 do {
