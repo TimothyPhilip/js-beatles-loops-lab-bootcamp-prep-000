@@ -21,14 +21,12 @@ return value;
 }
 
 function iLoveTheBeatles(n){
-  let i = 0
   var array = []
   return array
  
  do {
-  i = i + n; 
-  array = ("I love the Beatles!"); n++
-} while (i < 15);
+  array.push("I love the Beatles!");
+} while (n < 15);
 
 }
 
