@@ -24,6 +24,6 @@ function iLoveTheBeatles(number){
   var array = []
   do {
   [loopBody];
-} while ([condition]);
+} while (incrementVariable(number) );
 
 }
