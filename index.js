@@ -21,5 +21,6 @@ return value;
 }
 
 function iLoveTheBeatles(number){
+  var array = []
   
 }
