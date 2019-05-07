@@ -28,7 +28,7 @@ function iLoveTheBeatles(n){
  do {
   i = i + n; 
   array = ("I love the Beatles!"); n++
-} while (n < 15);
+} while (i < 15);
 
 }
 
