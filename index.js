@@ -22,13 +22,11 @@ return value;
 
 function iLoveTheBeatles(n){
   var array = []
-  
-  function incrementVariable() {
-  return array;
-}
  
 do {
   array.push("I love the Beatles!"); n++
 } while (incrementVariable() < 15); 
+
+  return array
 }
 
