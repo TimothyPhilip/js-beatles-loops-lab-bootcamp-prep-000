@@ -29,7 +29,7 @@ function iLoveTheBeatles(n){
 }
  
 do {
-  console.log("doo-bee-doo-bee-doo");
+  array.push("I love the Beatles!");
 } while (incrementVariable() < 15);
 }
 
