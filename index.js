@@ -21,7 +21,7 @@ return value;
 }
 
 function iLoveTheBeatles(number){
-  var array = []
+  var array = ["I love the Beatles!"]
   return array
  
  do {
